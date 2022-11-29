@@ -1,0 +1,107 @@
+:root
+{
+
+/* Spacings */
+
+--narrow-spacing: 4px;
+--relative-spacing: 8px;
+--next-line-spacing: 16px;
+--narrow-next-element-spacing: 24px;
+--next-element-spacing: 32px;
+--wide-next-element-spacing: 64px;
+
+--container-space: 16px;
+
+--section-space: 80px;
+
+
+
+
+
+/* Sizes */
+
+--nav-height: 80px;
+--nav-bar-width: 40px;
+--nav-middle-bar-width: 24px;
+--nav-bar-height: 4px;
+--nav-bars-height: 24px;
+--list-height: 40px;
+--arrow-depth: 20px;
+--arrow-search-depth: 12px;
+
+--circle-depth: 16px;
+--section-circle-depth: 12px;
+
+--caption-height: 80px;
+
+--plus-depth: 80px;
+
+--hexagon-depth: 48px;
+
+                /* Task 2 */
+    
+--testimonials-image: 112px;
+
+--skill-bar-height: 32px;
+
+--pricing-line-width: 120px;
+
+--footer-line-width: 200px;
+
+--scroll-depth: 48px;
+
+
+
+/* Fonts */
+
+--enormous-font-size: 64px;
+--big-font-size: 32px;
+--big-head-font-size: 24px;
+--head-font-size: 20px;
+--normal-font-size: 16px;
+--small-font-size: 13px;
+
+
+
+/* Line-Heights */
+
+--big-line-height: 48px;
+--small-line-height: 24px;
+
+
+/* Colors */
+
+--main-color: #00C7FC;
+--second-color: #0F748F;
+--second-color-o: #0F748Fcc;
+
+--section-head-color: #1f2021;
+--section-subhead-color: #a8a8a8;
+
+--overlaying-color: #333333cc;
+--ul-search-background-color: #333333aa;
+
+--section-background-color: white;
+--text-white: white;
+
+
+    /* Task2 */
+
+--skill-bar-color: #ddd;
+--skill-flowing-text-width: 40px;
+--skill-flowing-text-height: 24px;
+--skill-arrow-depth: 8px;
+
+
+/* Transitions */
+
+--main-transition: 0.5s;
+--color-transition: 0.3s;
+
+
+
+
+
+
+
+}
